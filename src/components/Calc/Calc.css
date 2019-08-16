@@ -1,0 +1,19 @@
+.input {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 20px;
+}
+.input input {
+  text-align: end;
+}
+
+
+.ButtonCont {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin-top: 20px;
+}
+.ButtonCont button {
+
+}
